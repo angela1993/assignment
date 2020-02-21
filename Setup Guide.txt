@@ -1,0 +1,7 @@
+
+Nodejs is required to run. 
+
+1)Open terminal
+2)Position to the root of the project 
+3)run command "npm i" 
+4)run command "npm start"
